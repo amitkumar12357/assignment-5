@@ -1,0 +1,15 @@
+{
+  "name": "web700-assignment",
+  "version": "1.0.0",
+  "description": "WEB700 Assignment 05",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^7.1.3"
+  },
+  "author": "Amit Kumar",
+  "license": "ISC"
+}
